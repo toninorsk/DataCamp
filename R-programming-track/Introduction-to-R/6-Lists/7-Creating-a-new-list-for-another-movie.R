@@ -25,7 +25,7 @@ Create a list, called departed_list, that contains the movie_title, movie_actors
 scores <- c(4.6, 5, 4.8, 5, 4.2)
 comments <- c("I would watch it again", "Amazing!", "I liked it", "One of the best movies", "Fascinating plot")
 
-# Save the average of the scores vector as avg_review  
+# Save the average of the scores vector as avg_review.  
 avg_review <- mean(scores)
 
 # Combine scores and comments into the reviews_df data frame
